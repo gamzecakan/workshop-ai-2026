@@ -17,7 +17,7 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 1 | [Nida Duman](https://github.com/Nidadmn) | [smart-agent](https://github.com/Nidadmn/smart-agent) | Python, Ollama | Framework kullanmadan sıfırdan yazılmış minimal otonom agent: planlama, tool kullanımı ve execution loop. |
 | 2 | [Şeyma Nalbant](https://github.com/nalbantseymaa) | [telco-ai-agent](https://github.com/nalbantseymaa/telco-ai-agent) ・ [video](https://drive.google.com/file/d/1q6h2KgiJwF3XZUNW_rr-UAx8TMTvTQDb/view) | Python, LangChain, Groq | LibreDB/PostgreSQL üzerindeki telekom telemetri verisini analiz eden ve müşteri kaybını (churn) azaltmaya yönelik aksiyon üreten cognitive agent. |
 | 3 | [Tuba Çınar](https://github.com/tubacayir) | [research-data-collector-agent](https://github.com/tubacayir/research-data-collector-agent) | Python | Verilen araştırma konusu için otomatik veri toplayan araştırma asistanı agent'ı. |
-
+| NULL | [Doğa İpek](https://github.com/dogaaipek) | [smart-study-planner-agent](https://github.com/dogaaipek/smart-study-planner-agent) | Python, Rule-based Agent, Optional LLM |A category-based study planner agent that detects missing inputs and generates personalized plans with mini quiz support.|
 ## Kendini Ekle
 
 Ödevini tamamladıysan listeye eklenmek için bir Pull Request aç:
