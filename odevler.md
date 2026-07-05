@@ -17,7 +17,7 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 1 | [Nida Duman](https://github.com/Nidadmn) | [smart-agent](https://github.com/Nidadmn/smart-agent) | Python, Ollama | Framework kullanmadan sıfırdan yazılmış minimal otonom agent: planlama, tool kullanımı ve execution loop. |
 | 2 | [Şeyma Nalbant](https://github.com/nalbantseymaa) | [telco-ai-agent](https://github.com/nalbantseymaa/telco-ai-agent) ・ [video](https://drive.google.com/file/d/1q6h2KgiJwF3XZUNW_rr-UAx8TMTvTQDb/view) | Python, LangChain, Groq | LibreDB/PostgreSQL üzerindeki telekom telemetri verisini analiz eden ve müşteri kaybını (churn) azaltmaya yönelik aksiyon üreten cognitive agent. |
 | 3 | [Tuba Çınar](https://github.com/tubacayir) | [research-data-collector-agent](https://github.com/tubacayir/research-data-collector-agent) | Python | Verilen araştırma konusu için otomatik veri toplayan araştırma asistanı agent'ı. |
-| NULL | [Zeliha Polat](https://github.com/zelihapp) | [deep-learning-model-management-agent](https://github.com/zelihapp/deep-learning-model-management-agent) | Python, Ollama | Framework kullanmadan yazılmış, eğitim loglarını analiz eden, modelleri karşılaştıran ve hiperparametre önerisi sunan agent. |
+| 4 | [Zeliha Polat](https://github.com/zelihapp) | [deep-learning-model-management-agent](https://github.com/zelihapp/deep-learning-model-management-agent) | Python, Ollama | Framework kullanmadan yazılmış, eğitim loglarını analiz eden, modelleri karşılaştıran ve hiperparametre önerisi sunan agent. |
 
 ## Kendini Ekle
 
