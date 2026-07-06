@@ -3,10 +3,10 @@
 > Bir workshop'un gerçek çıktısı slaytlar değil, sonrasında üretilen projelerdir.
 
 Bu repo, PIA Team AI Coding Agents Workshop 2026'nın hem sunum materyalini hem de
-— çok daha önemlisi — **workshop sonrası ortaya çıkan 17 katılımcı projesini** barındırıyor.
+— çok daha önemlisi — **workshop sonrası ortaya çıkan 21 katılımcı projesini** barındırıyor.
 
 Workshop'un ödevi tek cümleydi: *"İstediğiniz dilde, LLM ile çalışabilen bir AI Agent geliştirin."*
-Sonuç: 17 katılımcı, 17 farklı problem, 17 çalışan repo. Telekom arıza teşhisinden
+Sonuç: 21 katılımcı, 21 farklı problem, 21 çalışan repo. Telekom arıza teşhisinden
 logoterapi sohbet arkadaşına, CSV analizinden makyaj önerisine kadar her proje agent
 mimarisine kendi penceresinden baktı. **Bu workshop amacına ulaştı.**
 
@@ -45,6 +45,10 @@ raporu değil, kişiye özel birer öğrenme yol haritası.
 | 15 | [Gamze Çakan](https://github.com/gamzecakan) | [study-planner-agent](https://github.com/gamzecakan/study-planner-agent) | Python, LangChain, Groq | [Growth Roadmap](https://github.com/gamzecakan/study-planner-agent/issues/1) |
 | 16 | [Beyza Nur Tiril](https://github.com/beyzanurtiril) | [makeup-agent](https://github.com/beyzanurtiril/makeup-agent) | Python, Gemini, Tavily | [Growth Roadmap](https://github.com/beyzanurtiril/makeup-agent/issues/1) |
 | 17 | [Doğa İpek](https://github.com/dogaaipek) | [smart-study-planner-agent](https://github.com/dogaaipek/smart-study-planner-agent) | Python | [Growth Roadmap](https://github.com/dogaaipek/smart-study-planner-agent/issues/1) |
+| 18 | [Cansu Cebesoy](https://github.com/cansucebesoy) | [customer-support-agent](https://github.com/cansucebesoy/customer-support-agent) | Java, Gemini, Resend | [Growth Roadmap](https://github.com/cansucebesoy/customer-support-agent/issues/1) |
+| 19 | [Deniz Süren](https://github.com/denizsuren) | [seAI](https://github.com/denizsuren/seAI) | Python, Ollama, Qwen2.5-Coder | [Growth Roadmap](https://github.com/denizsuren/seAI/issues/1) |
+| 20 | [Ece Girtine](https://github.com/ecegirtine) | [job-application-agent](https://github.com/ecegirtine/job-application-agent) | Python, OpenAI Agents SDK | [Growth Roadmap](https://github.com/ecegirtine/job-application-agent/issues/1) |
+| 21 | [Gülden Aydoğan](https://github.com/gulayd) | [privacy-aware-llm-agent](https://github.com/gulayd/privacy-aware-llm-agent) | Python, Streamlit, Groq | [Growth Roadmap](https://github.com/gulayd/privacy-aware-llm-agent/issues/1) |
 
 Proje açıklamalarının tamamı [odevler.md](odevler.md) dosyasında.
 
